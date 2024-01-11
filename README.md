@@ -28,7 +28,6 @@ Durante este desafio, cobriremos uma variedade de tópicos em JavaScript, inclui
         <th>Day</th>
         <th>Topic</th>
         <th>Problem</th>
-        <th>Editorial</th>
     </tr>
     </thead>
     <tbody>
