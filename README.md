@@ -15,10 +15,10 @@ Durante este desafio, cobriremos uma variedade de tópicos em JavaScript, inclui
 
 - Closures :white_check_mark:
 - Basic Array Transformations :white_check_mark:
-- Function Transformations
-- Promises and Time
-- JSON
-- Classes 
+- Function Transformations :clock1:
+- Promises and Time :white_large_square:
+- JSON :white_large_square:
+- Classes :white_large_square:
 
 ## Problemas
 
@@ -83,6 +83,15 @@ Durante este desafio, cobriremos uma variedade de tópicos em JavaScript, inclui
             <td>
                 <a href="https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript">
                 Array Reduce Transformation
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Function Transformations</td>
+            <td>
+                <a href="https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript">
+                Function Composition
                 </a>
             </td>
         </tr>
