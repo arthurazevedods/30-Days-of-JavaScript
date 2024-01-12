@@ -95,6 +95,15 @@ Durante este desafio, cobriremos uma variedade de tópicos em JavaScript, inclui
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>9</td>
+            <td>Function Transformations</td>
+            <td>
+                <a href="https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript">
+                Return Length of Arguments Passed
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
