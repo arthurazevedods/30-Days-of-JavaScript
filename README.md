@@ -104,6 +104,15 @@ Durante este desafio, cobriremos uma variedade de tópicos em JavaScript, inclui
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>10</td>
+            <td>Function Transformations</td>
+            <td>
+                <a href="https://leetcode.com/problems/allow-one-function-call/?envType=study-plan-v2&envId=30-days-of-javascript">
+                Allow One Function Call
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
