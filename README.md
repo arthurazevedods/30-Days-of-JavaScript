@@ -124,10 +124,19 @@ Durante este desafio, cobriremos uma variedade de tópicos em JavaScript, inclui
         </tr>
         <tr>
             <td>12</td>
-            <td>Add Two</td>
+            <td>Promises and Time</td>
             <td>
                 <a href="https://leetcode.com/problems/add-two-promises/?envType=study-plan-v2&envId=30-days-of-javascript">
                 Add Two Promises
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Promises and Time</td>
+            <td>
+                <a href="https://leetcode.com/problems/sleep/description/?envType=study-plan-v2&envId=30-days-of-javascript">
+                Sleep
                 </a>
             </td>
         </tr>
