@@ -113,6 +113,24 @@ Durante este desafio, cobriremos uma variedade de tópicos em JavaScript, inclui
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>11</td>
+            <td>Function Transformations</td>
+            <td>
+                <a href="https://leetcode.com/problems/memoize/?envType=study-plan-v2&envId=30-days-of-javascript">
+                Memoize
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Add Two</td>
+            <td>
+                <a href="https://leetcode.com/problems/add-two-promises/?envType=study-plan-v2&envId=30-days-of-javascript">
+                Add Two Promises
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
