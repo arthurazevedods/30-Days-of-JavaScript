@@ -140,6 +140,15 @@ Durante este desafio, cobriremos uma variedade de tópicos em JavaScript, inclui
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>13</td>
+            <td>Promises and Time</td>
+            <td>
+                <a href="https://leetcode.com/problems/timeout-cancellation/?envType=study-plan-v2&envId=30-days-of-javascript">
+                Timeout Cancelation
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
